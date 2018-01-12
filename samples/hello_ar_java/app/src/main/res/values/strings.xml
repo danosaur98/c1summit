@@ -16,4 +16,5 @@
 -->
 <resources>
     <string name="app_name">HelloAR Java</string>
+    <string name="loading_message">Uploading image. Please wait.</string>
 </resources>
